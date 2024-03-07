@@ -1,0 +1,8 @@
+
+PUSH 
+
+1. git init = initiate a reporestory
+2. git add . = add all to exempt any file create gitignore and put put the file you want to exempt in gitignore
+3. git cpmmit -m "your msge"
+4. git remote add origin 
+5. git push 
